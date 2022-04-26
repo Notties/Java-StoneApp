@@ -1,2 +1,2 @@
 # Java-StoneApp
-CRUD Java with NetBeans
+CRUD Java using IDE NetBeans
